@@ -1,0 +1,4 @@
+interface:
+  display_name: "夜行电影海报"
+  short_description: "围绕清楚主体，用夜景、冷暖光和电影式透视制作或编辑宣传海报"
+  default_prompt: "用 $produce-night-cinema-poster 制作一张夜行电影感海报，给主标题与关键主体各留出清楚区域。"
